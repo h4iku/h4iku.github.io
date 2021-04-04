@@ -28,7 +28,7 @@ _International Symposium on Computer Science and Software Engineering Conference
 
 - [Gamified Incentives: A Badge Recommendation Model to Improve User Engagement in Social Networking Websites](https://thesai.org/Publications/ViewPaper?Volume=8&Issue=5&Code=IJACSA&SerialNo=33),
 Reza Gharibi and Mohammad Malekzadeh,
-International Journal of Advanced Computer Science and Applications (IJACSA), 2017.
+_International Journal of Advanced Computer Science and Applications (IJACSA)_, 2017.
 [[github](https://github.com/h4iku/stack-badges)]
 
 - [Optimizing Land-Use Allocation With Respect to Ecosystem Services Using Linear Programming](https://jne.ut.ac.ir/article_61874.html?lang=en),
