@@ -6,8 +6,10 @@ A PhD student at Shiraz University.
 
 I'm interested in software engineering tools, program analysis, and programming languages.
 
-- **Email:** `<my_last_name> [at] cse.shirazu.ac.ir`
-- **GitHub:** [h4iku](https://github.com/h4iku)
+**Email:** `<my_last_name> [at] cse.shirazu.ac.ir`
+
+[<img src="assets/github.svg" alt="GitHub" width="32"/>](https://github.com/h4iku)
+[<img src="assets/google-scholar.svg" alt="Google Scholar" width="32"/>](https://scholar.google.com/citations?hl=en&user=y5AU7-0AAAAJ)
 
 ## Publications
 
