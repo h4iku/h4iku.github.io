@@ -4,7 +4,7 @@ layout: home
 
 A PhD student at Shiraz University.
 
-I'm interested in software engineering tools, program analysis, and programming languages.
+I'm interested in the intersection of machine learning and software engineering, with a current focus on software engineering tools, automated program repair, and bug localization.
 
 **Email:** `<my_last_name> [at] cse.shirazu.ac.ir`
 
