@@ -14,7 +14,7 @@ I'm interested in the intersection of machine learning and software engineering,
 
 ## Publications
 
-- **T5APR: Empowering Automated Program Repair across Languages through Checkpoint Ensemble**,
+- **[T5APR: Empowering Automated Program Repair across Languages through Checkpoint Ensemble](https://www.sciencedirect.com/science/article/abs/pii/S0164121224001286)**,
 Reza Gharibi, Mohammad Hadi Sadreddini, and Seyed Mostafa Fakhrahmad,
 _Journal of Systems and Software (JSS)_, 2024.
 [[arXiv](https://arxiv.org/abs/2309.15742)]
