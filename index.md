@@ -8,9 +8,9 @@ I'm interested in the intersection of machine learning and software engineering,
 
 **Email:** `<my_last_name> [at] cse.shirazu.ac.ir`
 
-[<img src="assets/google-scholar.svg" alt="Google Scholar" width="35"/>](https://scholar.google.com/citations?hl=en&user=y5AU7-0AAAAJ)
-[<img src="assets/github.svg" alt="GitHub" width="35"/>](https://github.com/h4iku)
-[<img src="assets/stack-overflow.svg" alt="Stack Overflow" width="28"/>](https://stackoverflow.com/users/1825964/h4iku)
+[<img src="assets/google-scholar-square.svg" alt="Google Scholar" width="35"/>](https://scholar.google.com/citations?hl=en&user=y5AU7-0AAAAJ)
+[<img src="assets/github-square.svg" alt="GitHub" width="35"/>](https://github.com/h4iku)
+[<img src="assets/stackoverflow-square.svg" alt="Stack Overflow" width="35"/>](https://stackoverflow.com/users/1825964/h4iku)
 
 ## Publications
 
