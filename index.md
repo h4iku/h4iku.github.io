@@ -2,8 +2,6 @@
 layout: home
 ---
 
-A PhD student at Shiraz University.
-
 I'm interested in the intersection of machine learning and software engineering, with a current focus on software engineering tools, automated program repair, and bug localization.
 
 **Email:** `<my_last_name> [at] cse.shirazu.ac.ir`
@@ -13,6 +11,12 @@ I'm interested in the intersection of machine learning and software engineering,
 [<img src="assets/stackoverflow-square.svg" alt="Stack Overflow" width="35"/>](https://stackoverflow.com/users/1825964/h4iku)
 
 ## Publications
+
+- **[MultiMend: Multilingual Program Repair with Context Augmentation and Multi Hunk Patch Generation](https://link.springer.com/article/10.1007/s10515-026-00611-2)**,
+Reza Gharibi, Mohammad Hadi Sadreddini, and Seyed Mostafa Fakhrahmad,
+_Automated Software Engineering (AUSE)_, 2026.
+[[arXiv](https://arxiv.org/abs/2501.16044)]
+[[GitHub](https://github.com/h4iku/MultiMend)]
 
 - **[T5APR: Empowering Automated Program Repair across Languages through Checkpoint Ensemble](https://www.sciencedirect.com/science/article/abs/pii/S0164121224001286)**,
 Reza Gharibi, Mohammad Hadi Sadreddini, and Seyed Mostafa Fakhrahmad,
