@@ -44,6 +44,6 @@ Reza Gharibi and Mohammad Malekzadeh,
 _International Journal of Advanced Computer Science and Applications (IJACSA)_, 2017.
 [[GitHub](https://github.com/h4iku/stack-badges)]
 
-- **[Optimizing Land-Use Allocation With Respect to Ecosystem Services Using Linear Programming](https://jne.ut.ac.ir/article_61874.html?lang=en)**,
+- **[Optimizing Land-Use Allocation with Respect to Ecosystem Services Using Linear Programming](https://jne.ut.ac.ir/article_61874.html?lang=en)**,
 Maryam SaeedSabaee, Abdolrassoul SalmanMahiny, Reza Gharibi, and Elnaz SaeedSabaee,
 _Journal of Natural Environment (JNE)_, 2016. (_It's in Persian_)
