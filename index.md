@@ -12,6 +12,10 @@ I'm interested in the intersection of machine learning and software engineering,
 
 ## Publications
 
+- **[Using the Textual Features of Bug Reports to Localize the Related Source Code with an Emphasis on Semantics](https://link.springer.com/article/10.1007/s40998-026-01210-3)**,
+Zeynab Khalifeh, Amir Hossein Rasekh, Reza Gharibi, Mohammad Sadegh Bashkari, Amir Hossein Arshia, and Mehri Tabebordbar,
+_Iranian Journal of Science and Technology, Transactions of Electrical Engineering_, 2026.
+
 - **[MultiMend: Multilingual Program Repair with Context Augmentation and Multi Hunk Patch Generation](https://link.springer.com/article/10.1007/s10515-026-00611-2)**,
 Reza Gharibi, Mohammad Hadi Sadreddini, and Seyed Mostafa Fakhrahmad,
 _Automated Software Engineering (AUSE)_, 2026.
@@ -26,7 +30,7 @@ _Journal of Systems and Software (JSS)_, 2024.
 
 - **[A Content-Based Model for Tag Recommendation in Software Information Sites](https://doi.org/10.1093/comjnl/bxz144)**,
 Reza Gharibi, Atefeh Safdel, Seyed Mostafa Fakhrahmad, and Mohammad Hadi Sadreddini,
-_The Computer Journal_, 2019.
+_The Computer Journal_, 2021.
 [[GitHub](https://github.com/h4iku/tag-recom)]
 
 - **[Leveraging Textual Properties of Bug Reports to Localize Relevant Source Files](https://www.sciencedirect.com/science/article/abs/pii/S0306457318301092)**,
