@@ -2,13 +2,27 @@
 layout: home
 ---
 
+<style>
+	.social-icon {
+		background-color: CanvasText;
+		display: inline-block;
+		height: 40px;
+        width: 36px;
+		mask: var(--social-icon) center / contain no-repeat;
+		vertical-align: middle;
+		-webkit-mask: var(--social-icon) center / contain no-repeat;
+	}
+</style>
+
 I'm interested in the intersection of machine learning and software engineering, with a current focus on software engineering tools, automated program repair, and bug localization.
 
 **Email:** `<my_last_name> [at] cse.shirazu.ac.ir`
 
-[<img src="assets/google-scholar-square.svg" alt="Google Scholar" width="35"/>](https://scholar.google.com/citations?hl=en&user=y5AU7-0AAAAJ)
-[<img src="assets/github-square.svg" alt="GitHub" width="35"/>](https://github.com/h4iku)
-[<img src="assets/stackoverflow-square.svg" alt="Stack Overflow" width="35"/>](https://stackoverflow.com/users/1825964/h4iku)
+[<span class="social-icon" style="--social-icon: url('assets/google-scholar-square.svg')" role="img" aria-label="Google Scholar"></span>](https://scholar.google.com/citations?hl=en&user=y5AU7-0AAAAJ)
+[<span class="social-icon" style="--social-icon: url('assets/github-square.svg')" role="img" aria-label="GitHub"></span>](https://github.com/h4iku)
+[<span class="social-icon" style="--social-icon: url('assets/orcid-square.svg')" role="img" aria-label="ORCID"></span>](https://orcid.org/0000-0001-6596-3658)
+[<span class="social-icon" style="--social-icon: url('assets/stackoverflow-square.svg')" role="img" aria-label="Stack Overflow"></span>](https://stackoverflow.com/users/1825964/h4iku)
+
 
 ## Publications
 
