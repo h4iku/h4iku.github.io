@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.social-icon {
+    background-color: CanvasText;
+    display: inline-block;
+    height: 40px;
+    width: 36px;
+    mask: var(--social-icon) center / contain no-repeat;
+    vertical-align: middle;
+    -webkit-mask: var(--social-icon) center / contain no-repeat;
+}
+
+.social-icon-google-scholar {
+    --social-icon: url('/assets/icons/google-scholar-square.svg');
+}
+
+.social-icon-github {
+    --social-icon: url('/assets/icons/github-square.svg');
+}
+
+.social-icon-orcid {
+    --social-icon: url('/assets/icons/orcid-square.svg');
+}
+
+.social-icon-stackoverflow {
+    --social-icon: url('/assets/icons/stackoverflow-square.svg');
+}
