@@ -20,7 +20,7 @@ _Iranian Journal of Science and Technology, Transactions of Electrical Engineeri
 
 - **[MultiMend: Multilingual Program Repair with Context Augmentation and Multi Hunk Patch Generation](https://link.springer.com/article/10.1007/s10515-026-00611-2)**,
 Reza Gharibi, Mohammad Hadi Sadreddini, and Seyed Mostafa Fakhrahmad,
-_Automated Software Engineering (AUSE)_, 2026.
+_Automated Software Engineering (ASE)_, 2026.
 [[arXiv](https://arxiv.org/abs/2501.16044)]
 [[GitHub](https://github.com/h4iku/MultiMend)]
 
