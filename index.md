@@ -2,7 +2,7 @@
 layout: home
 ---
 
-I'm interested in the intersection of machine learning and software engineering, with a current focus on software engineering tools, automated program repair, and bug localization.
+My research interests lie at the intersection of artificial intelligence and software engineering, with a focus on intelligent developer tools, automated software maintenance, and techniques for improving software reliability.
 
 **Email:** `<my_last_name> [at] cse.shirazu.ac.ir`
 
