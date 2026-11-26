@@ -18,7 +18,7 @@ My research interests lie at the intersection of artificial intelligence and sof
 Zeynab Khalifeh, Amir Hossein Rasekh, Reza Gharibi, Mohammad Sadegh Bashkari, Amir Hossein Arshia, and Mehri Tabebordbar,
 _Iranian Journal of Science and Technology, Transactions of Electrical Engineering_, 2026.
 
-- **[MultiMend: Multilingual Program Repair with Context Augmentation and Multi Hunk Patch Generation](https://link.springer.com/article/10.1007/s10515-026-00611-2)**,
+- **[MultiMend: Multilingual Program Repair with Context Augmentation and Multi-Hunk Patch Generation](https://link.springer.com/article/10.1007/s10515-026-00611-2)**,
 Reza Gharibi, Mohammad Hadi Sadreddini, and Seyed Mostafa Fakhrahmad,
 _Automated Software Engineering (ASE)_, 2026.
 [[arXiv](https://arxiv.org/abs/2501.16044)]
